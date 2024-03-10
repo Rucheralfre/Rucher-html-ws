@@ -1,0 +1,18 @@
+body{
+    background-color: #E9E8E8;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.cards{
+    gap: 35px;
+    list-style-position: outside;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
